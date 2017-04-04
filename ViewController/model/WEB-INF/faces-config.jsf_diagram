@@ -2,4 +2,15 @@
 <SDM>
    <OverallProperties
       id="OverallProperties1"/>
+   <Page
+      id="Page2">
+      <property
+         name="wildcard">false</property>
+      <property
+         name="y">226.14941</property>
+      <property
+         name="x">245.5</property>
+      <property
+         name="jspName">/index.jsf</property>
+   </Page>
 </SDM>
