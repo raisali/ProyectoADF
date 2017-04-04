@@ -6,16 +6,20 @@
             <af:pageTemplate viewId="/oracle/templates/threeColumnTemplate.jspx" id="pt1"
                              binding="#{backingBeanScope.backing_index.pt1}">
                 <f:facet name="center">
-                
-                
-                
+                                         
                 </f:facet>
-                <f:facet name="header"/>
-                <f:facet name="end"/>
-                <f:facet name="start"/>
-                <f:facet name="branding"/>
-                <f:facet name="copyright"/>
-                <f:facet name="status"/>
+                <f:facet name="header">
+                </f:facet>
+                <f:facet name="end">
+                </f:facet>
+                <f:facet name="start">
+                </f:facet>
+                <f:facet name="branding">
+                </f:facet>
+                <f:facet name="copyright">
+                </f:facet>
+                <f:facet name="status">
+                </f:facet>
             </af:pageTemplate>
         </af:form>
     </af:document>
