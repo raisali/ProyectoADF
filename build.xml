@@ -15,8 +15,7 @@
                   ora:statuslog="${oracle.jdeveloper.deploy.dir}/ojdeploy-statuslog.xml">
       <ora:deploy>
         <ora:parameter name="workspace"
-                       value="${oracle.jdeveloper.workspace.path}"/>
-                       
+                       value="${oracle.jdeveloper.workspace.path}"/>                       
         <ora:parameter name="profile"
                        value="${oracle.jdeveloper.deploy.profile.name}"/>
         <ora:parameter name="nocompile" value="false"/>
